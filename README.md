@@ -8,4 +8,5 @@
 
 
 This repository contains 2 ML projects:
-* **Grade_Prediction**: Regression and Classification problems of predicting `final grade` (`passed` or `not passed` for classification) based on various information about the students of 2 Portugese schools
+* **Grade_Prediction**: Regression and binary Classification problems of predicting `final grade` (`passed` or `not passed` for classification) based on wide-range  information about the students of 2 Portugese schools
+* **Loan_Status_Prediction**: Regression, binary and multiclass Classification problems of predicting status of the loan based on wide-range information about borrower (Lending Club data).
