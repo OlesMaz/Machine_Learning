@@ -10,3 +10,6 @@
 This repository contains 2 ML projects:
 * **Grade_Prediction**: Regression and binary Classification problems of predicting `final grade` (`passed` or `not passed` for classification) based on wide-range  information about the students of 2 Portugese schools
 * **Loan_Status_Prediction**: Regression, binary and multiclass Classification problems of predicting `status of the loan` based on wide-range information about borrower (Lending Club data).
+* **Bioconcentration_Potential_Prediction**: Regression problem of predicting BCF based on molecular descryptors. Enseble methods are used (Voting, Bagging, ADABoost, GradientBoost, XGB, Stacking)
+* **Wine_Quality_prediction**: Classification problem of predicting wine quality based on some factors. Enseble methods are used.
+* **Cluster_problem**: Hierarchy clustering and unsupervised learning.
