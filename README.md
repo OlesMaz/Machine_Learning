@@ -7,7 +7,7 @@
 ![PyPI](https://img.shields.io/pypi/v/ipywidgets?label=ipywidgets&color=green)
 
 
-This repository contains 2 ML projects:
+This repository contains 5 ML projects:
 * **Grade_Prediction**: Regression and binary Classification problems of predicting `final grade` (`passed` or `not passed` for classification) based on wide-range  information about the students of 2 Portugese schools
 * **Loan_Status_Prediction**: Regression, binary and multiclass Classification problems of predicting `status of the loan` based on wide-range information about borrower (Lending Club data).
 * **Bioconcentration_Potential_Prediction**: Regression problem of predicting BCF based on molecular descryptors. Enseble methods are used (Voting, Bagging, ADABoost, GradientBoost, XGB, Stacking)
